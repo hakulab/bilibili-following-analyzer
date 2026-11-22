@@ -11,6 +11,7 @@ docstrings
 dotenv
 envrc
 hakula
+hakulab
 isort
 khtml
 minversion

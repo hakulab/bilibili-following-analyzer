@@ -8,7 +8,7 @@
 | ----------------------------- | ------------------------------------------------------------------------------ |
 | Configuration or CLI behavior | [Configuration](README.md#configuration)                                       |
 | API requests                  | [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) |
-| CI or a workflow              | [devkit's CI guide](https://github.com/hakula139/devkit/blob/v3/docs/ci.md)    |
+| CI or a workflow              | [devkit's CI guide](https://github.com/hakulab/devkit/blob/v3/docs/ci.md)      |
 
 ## Analysis contracts
 
