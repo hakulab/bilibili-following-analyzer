@@ -1,7 +1,7 @@
 # bilibili-following-analyzer
 
-[![CI](https://github.com/hakula139/bilibili-following-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/hakula139/bilibili-following-analyzer/actions/workflows/ci.yml)
-[![Coverage](https://codecov.io/gh/hakula139/bilibili-following-analyzer/graph/badge.svg)](https://codecov.io/gh/hakula139/bilibili-following-analyzer)
+[![CI](https://github.com/hakulab/bilibili-following-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/hakulab/bilibili-following-analyzer/actions/workflows/ci.yml)
+[![Coverage](https://codecov.io/gh/hakulab/bilibili-following-analyzer/graph/badge.svg)](https://codecov.io/gh/hakulab/bilibili-following-analyzer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Analyze your Bilibili following list with composable filters for missing follow-backs, inactivity, and interactions. An allow list preserves accounts you want to keep following.
